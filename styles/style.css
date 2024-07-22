@@ -1,0 +1,34 @@
+.user-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    width: 100%; 
+    max-width: 600px; 
+    background-color: #fff;  
+    padding: 20px;  
+    border-radius: 8px;  
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+.user-card h2 {
+    margin-top: 0;
+}
+.user-info {
+    margin-bottom: 10px;
+}
+.navbar {
+    z-index: 1000;  
+}
+.content {
+    margin-top: 60px;  
+}
+li{
+    cursor: pointer;
+}
+
+.content {
+    display: flex;
+    justify-content: center;  
+    align-items: center; 
+}
+
